@@ -1,1 +1,1 @@
-add_lunch_combo omni_t0ltetmo-userdebug
+add_lunch_combo du_t0ltetmo-userdebug
